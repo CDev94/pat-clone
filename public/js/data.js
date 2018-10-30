@@ -3,13 +3,13 @@ var data = {
 		sound: new Howl({
   		urls: ['sounds/bubbles.mp3']
 		}),
-		color: '#1abc9c'
+		color: '#834AB0'
 	},
 	w: {
 		sound: new Howl({
   		urls: ['sounds/clay.mp3']
 		}),
-		color: '#2ecc71'
+		color: '#834AB0'
 	},
 	e: {
 		sound: new Howl({
@@ -142,6 +142,12 @@ var data = {
   		urls: ['sounds/wipe.mp3']
 		}),
 		color: '#2980b9'
+	},
+		t: {
+		sound: new Howl({
+  		urls: ['sounds/piston-2.mp3']
+		}),
+		color: '#313C4C'
 	},
 	n: {
 		sound: new Howl({
